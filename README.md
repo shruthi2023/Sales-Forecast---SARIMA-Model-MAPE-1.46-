@@ -19,7 +19,7 @@ Decomposition
 
 ACF & PACF
 
-Grid Search - SARIMA Model Parameters
+Grid Search - SARIMA Model Hyperparameters
 
 Forecasting
 - SARIMA Modeling
